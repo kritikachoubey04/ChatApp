@@ -7,3 +7,4 @@ ChatApp is a simple real-time chat application built with Java, Firebase Realtim
 <img width="1792" alt="Screenshot 2025-05-12 at 2 57 37 PM" src="https://github.com/user-attachments/assets/8cb5f275-90ab-499e-8fe6-dd02e220462d" />
 <img width="1792" alt="Screenshot 2025-05-12 at 2 57 40 PM" src="https://github.com/user-attachments/assets/055a4d0b-dea9-464f-a1f8-509e6c1fd0b5" />
 ![Uploading Screenshot 2025-05-12 at 2.58.34 PM.png…]()
+![2C69DC64-435B-4856-9569-F162AF9A2313_1_201_a](https://github.com/user-attachments/assets/ab039dbb-204a-4bef-902c-6b573e969696)
